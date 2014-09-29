@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SIDHU</Machine>
+    <WindowsUser>talla_000</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>3df1b26f-20c9-415d-9f9a-820a21ac467c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\talla_000\Documents\Visual Studio 2013\Projects\WorkOrdersApp\WorkOrdersApp\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>E82F320B3372A4E54DF2C0F3F1BEA9745352D2FEB7690206B2FCFAE3A3CD416F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>3df1b26f-20c9-415d-9f9a-820a21ac467c_1.0.0.0_neutral__fx5henbq1y99r</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>3df1b26f-20c9-415d-9f9a-820a21ac467c_fx5henbq1y99r!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>3df1b26f-20c9-415d-9f9a-820a21ac467c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=talla_000</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\talla_000\Documents\Visual Studio 2013\Projects\WorkOrdersApp\WorkOrdersApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-28T18:32:27.673</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\talla_000\Documents\Visual Studio 2013\Projects\WorkOrdersApp\WorkOrdersApp\bin\Debug\WorkOrdersApp.exe">
+      <PackagePath>WorkOrdersApp.exe</PackagePath>
+      <Modified>2014-09-28T20:18:31.038</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI.winmd">
+      <PackagePath>Microsoft.Advertising.WinRT.UI.winmd</PackagePath>
+      <Modified>2013-09-13T16:42:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\MicrosoftAdvertising.winmd">
+      <PackagePath>MicrosoftAdvertising.winmd</PackagePath>
+      <Modified>2013-09-13T16:42:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Documents\Visual Studio 2013\Projects\WorkOrdersApp\packages\Microsoft.Bcl.Async.1.0.168\lib\win8\Microsoft.Threading.Tasks.dll">
+      <PackagePath>Microsoft.Threading.Tasks.dll</PackagePath>
+      <Modified>2014-09-18T22:02:11.203</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Documents\Visual Studio 2013\Projects\WorkOrdersApp\packages\Microsoft.Bcl.Async.1.0.168\lib\win8\Microsoft.Threading.Tasks.Extensions.dll">
+      <PackagePath>Microsoft.Threading.Tasks.Extensions.dll</PackagePath>
+      <Modified>2014-09-18T22:02:11.213</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Documents\Visual Studio 2013\Projects\WorkOrdersApp\packages\Newtonsoft.Json.6.0.5\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2014-09-18T22:02:30.963</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Documents\Visual Studio 2013\Projects\WorkOrdersApp\packages\DeveloperForce.Chatter.0.4.6\lib\Salesforce.Chatter.dll">
+      <PackagePath>Salesforce.Chatter.dll</PackagePath>
+      <Modified>2014-09-18T22:02:12.149</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Documents\Visual Studio 2013\Projects\WorkOrdersApp\packages\DeveloperForce.Common.0.4.10\lib\Salesforce.Common.dll">
+      <PackagePath>Salesforce.Common.dll</PackagePath>
+      <Modified>2014-09-18T22:02:31.077</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Documents\Visual Studio 2013\Projects\WorkOrdersApp\packages\DeveloperForce.Force.0.5.3\lib\Salesforce.Force.dll">
+      <PackagePath>Salesforce.Force.dll</PackagePath>
+      <Modified>2014-09-18T22:02:31.055</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Documents\Visual Studio 2013\Projects\WorkOrdersApp\packages\Microsoft.Net.Http.2.2.28\lib\win8\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+      <Modified>2014-09-18T22:02:30.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Documents\Visual Studio 2013\Projects\WorkOrdersApp\packages\Microsoft.Net.Http.2.2.28\lib\win8\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+      <Modified>2014-09-18T22:02:30.808</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf</PackagePath>
+      <Modified>2013-09-13T16:42:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf</PackagePath>
+      <Modified>2013-09-13T16:42:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\bootstrap.html</PackagePath>
+      <Modified>2013-09-13T16:43:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\ormma.js">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\ormma.js</PackagePath>
+      <Modified>2013-09-13T16:46:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Documents\Visual Studio 2013\Projects\WorkOrdersApp\WorkOrdersApp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T13:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Documents\Visual Studio 2013\Projects\WorkOrdersApp\WorkOrdersApp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T13:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Documents\Visual Studio 2013\Projects\WorkOrdersApp\WorkOrdersApp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T13:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Documents\Visual Studio 2013\Projects\WorkOrdersApp\WorkOrdersApp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T13:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Documents\Visual Studio 2013\Projects\WorkOrdersApp\WorkOrdersApp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-09-18T22:01:00.916</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Documents\Visual Studio 2013\Projects\WorkOrdersApp\WorkOrdersApp\bin\Debug\CommentsTab.xbf">
+      <PackagePath>CommentsTab.xbf</PackagePath>
+      <Modified>2014-09-24T14:38:30.279</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Documents\Visual Studio 2013\Projects\WorkOrdersApp\WorkOrdersApp\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-09-24T20:24:16.983</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Documents\Visual Studio 2013\Projects\WorkOrdersApp\WorkOrdersApp\bin\Debug\SplitPage1.xbf">
+      <PackagePath>SplitPage1.xbf</PackagePath>
+      <Modified>2014-09-28T20:16:14.671</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Documents\Visual Studio 2013\Projects\WorkOrdersApp\WorkOrdersApp\bin\Debug\WorkOrderDetails.xbf">
+      <PackagePath>WorkOrderDetails.xbf</PackagePath>
+      <Modified>2014-09-24T20:24:16.986</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Documents\Visual Studio 2013\Projects\WorkOrdersApp\WorkOrdersApp\bin\Debug\WorkOrderListView.xbf">
+      <PackagePath>WorkOrderListView.xbf</PackagePath>
+      <Modified>2014-09-28T19:29:35.032</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Documents\Visual Studio 2013\Projects\WorkOrdersApp\WorkOrdersApp\bin\Debug\WorkOrderTabs.xbf">
+      <PackagePath>WorkOrderTabs.xbf</PackagePath>
+      <Modified>2014-09-24T14:38:30.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Documents\Visual Studio 2013\Projects\WorkOrdersApp\WorkOrdersApp\bin\Debug\WorkOrdersApp.xr.xml">
+      <PackagePath>WorkOrdersApp.xr.xml</PackagePath>
+      <Modified>2014-09-28T20:16:14.626</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Documents\Visual Studio 2013\Projects\WorkOrdersApp\WorkOrdersApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-09-28T18:32:23.578</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
